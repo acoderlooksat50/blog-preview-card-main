@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/acoderlooksat50/blog-preview-card-main](https://github.com/acoderlooksat50/blog-preview-card-main)
+- Live Site URL: [https://acoderlooksat50.github.io/blog-preview-card-main](https://acoderlooksat50.github.io/blog-preview-card-main)
 
 ## My process
 
